@@ -87,7 +87,7 @@ buttonElement.forEach((element) => {
 })
 
 /* accesability */
-const availableNumber = ["1","2","3","4","5","6","7","8","9","."];
+const availableNumber = ["1","2","3","4","5","6","7","8","9","0","."];
 const availableOperation = ["*","/","-","+"]
 const availableKeys = [...availableNumber,...availableOperation,"c","Backspace","Enter"]
 
